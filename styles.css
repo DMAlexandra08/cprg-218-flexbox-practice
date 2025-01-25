@@ -15,10 +15,13 @@ main{
 }
 
 section{
-    border:1px solid red;
     flex:1;
 }
 
 #appetizers{
     flex:2;
+}
+
+section ul li span{
+    font-weight: bold;
 }

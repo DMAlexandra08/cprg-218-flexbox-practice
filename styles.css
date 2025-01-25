@@ -2,11 +2,19 @@
     box-sizing:border-box;
 }
 
-main {
+header{
+    background-color: #dccfba;
     display:flex;
+    align-items:center;
+    gap:1rem;
 }
 
-section {
+main{
+    display:flex;
+    gap:1rem;
+}
+
+section{
     border:1px solid red;
     flex:1;
 }
